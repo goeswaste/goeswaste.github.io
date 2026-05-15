@@ -1,4 +1,8 @@
 # player456.github.io
+# https://wtfm.exblog.jp/
+# https://www.aozora.gr.jp/
+# https://nazology.kusuguru.co.jp/archives/category/ancient/history_archeology
+# https://www.kokuminkaikan.jp/about/kingen/kg/QYMWFoMv
 
 # 🎬 Cannes Film Festival 2025 — Full Overview
 
