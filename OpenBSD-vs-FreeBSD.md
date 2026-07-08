@@ -1,3 +1,13 @@
+---
+layout: default
+title: My Page
+permalink: /OpenBSD-vs-FreeBSD/
+---
+
+# Hello
+
+This is Markdown rendered as HTML.
+
 # Differences Between OpenBSD and FreeBSD
 
 Both OpenBSD and FreeBSD are Unix-like operating systems descended from BSD (Berkeley Software Distribution), but they focus on very different goals.
