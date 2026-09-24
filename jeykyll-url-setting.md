@@ -131,7 +131,7 @@ permalink: /filename.html
 If you want consistent links inside your Markdown or templates, use Jekyll’s `link` tag where possible:
 
 ```liquid
-{% link filename.md %}
+{% raw %}{% link filename.md %}{% endraw %}
 ```
 
 That lets Jekyll use the page’s actual configured permalink instead of making you guess whether it ends in `/` or `.html`. <citation src="3"></citation>
