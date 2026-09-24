@@ -1,5 +1,5 @@
 ---
-title: Gemini: peasants and farmers
+title: "Gemini: peasants and farmers"
 date: 2026-09-09 01:37:06
 ---
 
