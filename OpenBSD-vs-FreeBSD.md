@@ -1,11 +1,11 @@
 ---
 title: "My Page"
-layout: "default"
+layout: "post"
 date: "2026-09-24 21:11:35"
 published: true
 draft: true
 permalink: "/OpenBSD-vs-FreeBSD/"
-theme: "jekyll-theme-hacker"
+theme: "jekyll-theme-cayman"
 dark_mode: true
 ---
 
