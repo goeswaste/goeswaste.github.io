@@ -1,7 +1,12 @@
 ---
-layout: default
-title: My Page
-permalink: /OpenBSD-vs-FreeBSD/
+title: "My Page"
+layout: "default"
+date: "2026-09-24 21:11:35"
+published: true
+draft: true
+permalink: "/OpenBSD-vs-FreeBSD/"
+theme: "jekyll-theme-hacker"
+dark_mode: true
 ---
 
 # Hello
