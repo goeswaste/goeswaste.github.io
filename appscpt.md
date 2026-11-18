@@ -1,5 +1,10 @@
 ---
-title: app.scpt
+title: "app.scpt"
+layout: "default"
+date: "2026-11-18 00:36:39"
+published: true
+draft: true
+dark_mode: true
 ---
 
 Below is the updated full AppleScript with detailed comments in both English and Chinese.
